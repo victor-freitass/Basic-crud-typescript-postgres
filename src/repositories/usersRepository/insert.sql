@@ -1,0 +1,1 @@
+INSERT INTO USERS (nome, email) values ($1, $2);
